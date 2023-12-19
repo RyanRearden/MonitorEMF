@@ -5,7 +5,7 @@
 
 </div>
 
-MonitorEMF is an interactive Matplotloib graph that, when you click a "pixel" in the monitor display, shows the theoretical Fourier transform assiciated with the screen. For a more detailed explanation on the project, please see my writeup. To see the insparation for this project please see read [Remote video eavesdropping using a software-defined radio platform](https://github.com/martinmarinov/TempestSDR/blob/master/documentation/acs-dissertation.pdf).
+MonitorEMF is an interactive Matplotloib graph that, when you click a "pixel" in the monitor display, shows the theoretical Fourier transform assiciated with the screen. For a more detailed explanation on the project, please see my [writeup](https://github.com/RyanRearden/MonitorEMF/blob/main/MonitorEMF_wrietup.pdf). To see the insparation for this project please see read [Remote video eavesdropping using a software-defined radio platform](https://github.com/martinmarinov/TempestSDR/blob/master/documentation/acs-dissertation.pdf).
 
 
 <p align="center">
